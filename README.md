@@ -1,1 +1,1 @@
-SPLIT DEVICE TREE FOR UMIDIGI A7-PRO
+Team Win Recovery Project for the Umidigi A7 Pro
